@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ADMIN - Package Management/App Image Installations/PPA APT Installations (Personal Repositories)/Floorp Browser Installation.md",
+                "file": "ADMIN - Package Management/App Image Installations/APT Package Manager Explicitly Installed (Manual)/Aggregated Listing Of Currently Installed Packages.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,6 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "10729f82f308df38",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -77,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADMIN - Package Management/App Image Installations/PPA APT Installations (Personal Repositories)/Floorp Browser Installation.md",
+                "file": "ADMIN - Package Management/App Image Installations/APT Package Manager Explicitly Installed (Manual)/Aggregated Listing Of Currently Installed Packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADMIN - Package Management/App Image Installations/PPA APT Installations (Personal Repositories)/Floorp Browser Installation.md",
+                "file": "ADMIN - Package Management/App Image Installations/APT Package Manager Explicitly Installed (Manual)/Aggregated Listing Of Currently Installed Packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADMIN - Package Management/App Image Installations/PPA APT Installations (Personal Repositories)/Floorp Browser Installation.md"
+                "file": "ADMIN - Package Management/App Image Installations/APT Package Manager Explicitly Installed (Manual)/Aggregated Listing Of Currently Installed Packages.md"
               }
             }
           }
@@ -140,10 +148,12 @@
   },
   "active": "8eb9fb8d9d7e1c49",
   "lastOpenFiles": [
-    "ADMIN - Package Management/Curl Installations/Aggregated Curl Package Installations List.md",
-    "ADMIN - Package Management/App Image Installations/PPA APT Installations (Personal Repositories)/Floorp Browser Installation.md",
-    "ADMIN - Package Management/App Image Installations/PPA APT Installations (Personal Repositories)",
+    "ADMIN - Package Management/App Image Installations/PPA APT Installations (Personal Repositories)/OneDriver Client Installation/OneDriver Client Installation.md",
     "ADMIN - Package Management/App Image Installations/APT Package Manager Explicitly Installed (Manual)/Aggregated Listing Of Currently Installed Packages.md",
+    "ADMIN - Package Management/App Image Installations/PPA APT Installations (Personal Repositories)/OneDriver Client Installation",
+    "ADMIN - Package Management/App Image Installations/PPA APT Installations (Personal Repositories)/Floorp Browser Installation.md",
+    "ADMIN - Package Management/Curl Installations/Aggregated Curl Package Installations List.md",
+    "ADMIN - Package Management/App Image Installations/PPA APT Installations (Personal Repositories)",
     "ADMIN - Package Management/Curl Installations",
     "Github Course For Beginners/HOW TO - Manage Your GPG Keys In Linux.md",
     "Github Authentication/Github Access Tokens.md",
@@ -165,7 +175,6 @@
     "ADMIN - Package Management/App Image Installations/APT Package Manager Automatic Installed (Automatic)",
     "ADMIN - Package Management/App Image Installations/APT Package Manager Explicitly Installed (Manual)",
     "ADMIN - Package Management/App Image Installations",
-    "ADMIN - Package Management/Snap Installations",
     "Github Course For Beginners/Your Personal Dashboard.md",
     "Github Course For Beginners/Inspiration On Github.md",
     "Github Course For Beginners/GitHub 'Hello World' Tutorial.md",

@@ -113,7 +113,7 @@
   "ITS@@nav-item-color@@dark": "#FF9F51",
   "ITS@@bttn@@dark": "#CD5858",
   "ITS@@sidebar-icon-color-active@@dark": "#87949B",
-  "ITS@@code-bg@@dark": "#32363E",
+  "ITS@@code-bg@@dark": "#12171F",
   "ITS@@dataview-table-auto": true,
   "ITS@@notion": false,
   "ITS@@slrvb-g": false,
@@ -147,5 +147,6 @@
   "ITS@@breadcrumbs-block": true,
   "ITS@@h1-border-line-width": 0,
   "ITS@@bold-weight": 500,
-  "ITS@@hcl": true
+  "ITS@@hcl": true,
+  "ITS@@code-text@@dark": "#FA4545"
 }
