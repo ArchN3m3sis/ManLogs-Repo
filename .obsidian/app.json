@@ -1,0 +1,9 @@
+{
+  "readableLineLength": false,
+  "spellcheck": false,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "useTab": false,
+  "smartIndentList": false,
+  "tabSize": 8
+}

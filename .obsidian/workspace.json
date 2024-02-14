@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "cd2135237546b7ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "620b357cabd83bf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eb9fb8d9d7e1c49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Github Course For Beginners/HOW TO - Manage Your GPG Keys In Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "deba4dcdb91c25c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc0adf283ec98ce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b2294f3044f833e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "718718ba46e90051",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5de362767b2965c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411.5
+  },
+  "right": {
+    "id": "c44e06c1a9c78e2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "314303740e76e2ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "096e368792b678d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Github Course For Beginners/HOW TO - Manage Your GPG Keys In Linux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "516f3742f6b74640",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Github Course For Beginners/HOW TO - Manage Your GPG Keys In Linux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "842766fe32b51f3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7ac95eb8ab2c2b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Github Course For Beginners/HOW TO - Manage Your GPG Keys In Linux.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8eb9fb8d9d7e1c49",
+  "lastOpenFiles": [
+    "Github Authentication/Github Access Tokens.md",
+    "ADMIN - Package Management/APT Package Manager Explicitly Installed (Manual)/Aggregated Listing Of Currently Installed Packages.md",
+    "ADMIN - Personal Access Tokens/Github Personal Access Token Administration.md",
+    "Github Course For Beginners/HOW TO - Manage Your GPG Keys In Linux.md",
+    "ADMIN - Personal Access Tokens",
+    "Github Course For Beginners/HOW TO - Associate GPG Key & Email For Github.md",
+    "Github Course For Beginners/HOW TO - 'SSH' Versus 'GPG' In Github.md",
+    "Github Course For Beginners/HOW TO - Authenticating To Github With SSH.md",
+    "Github Course For Beginners/HOW TO - Generate A New GPG Key.md",
+    "Github Course For Beginners/Intro To Github For Beginners.md",
+    "RESOURCES.md",
+    "README.md",
+    "ADMIN - Package Management/Snap Installations/'Snap', 'LSD', & 'The Snap Store'.md",
+    "Linux Security - App Armor/App Armor & App Armor Profiles Overview.md",
+    "[.md",
+    "Linux Security - App Armor",
+    "ADMIN - Package Management/Flatpak Installations",
+    "ADMIN - Package Management",
+    "ADMIN - Package Management/APT Package Manager Automatic Installed (Automatic)",
+    "ADMIN - Package Management/APT Package Manager Explicitly Installed (Manual)",
+    "ADMIN - Package Management/App Image Installations",
+    "ADMIN - Package Management/Snap Installations",
+    "Github Authentication",
+    "Github Course For Beginners/Your Personal Dashboard.md",
+    "Github Course For Beginners/Inspiration On Github.md",
+    "Github Course For Beginners/GitHub 'Hello World' Tutorial.md",
+    "Github Course For Beginners",
+    "How To Work With Github/How To Use Github.md"
+  ]
+}
