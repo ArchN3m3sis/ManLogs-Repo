@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "620b357cabd83bf8",
+        "id": "c53cee7c55ac78c1",
         "type": "tabs",
         "children": [
           {
-            "id": "8eb9fb8d9d7e1c49",
+            "id": "14b1cf72a1b9efbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ADMIN - Package Management/App Image Installations/APT Package Manager Explicitly Installed (Manual)/Aggregated Listing Of Currently Installed Packages.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADMIN - Package Management/App Image Installations/APT Package Manager Explicitly Installed (Manual)/Aggregated Listing Of Currently Installed Packages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADMIN - Package Management/App Image Installations/APT Package Manager Explicitly Installed (Manual)/Aggregated Listing Of Currently Installed Packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ADMIN - Package Management/App Image Installations/APT Package Manager Explicitly Installed (Manual)/Aggregated Listing Of Currently Installed Packages.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8eb9fb8d9d7e1c49",
+  "active": "14b1cf72a1b9efbc",
   "lastOpenFiles": [
-    "ADMIN - Package Management/App Image Installations/PPA APT Installations (Personal Repositories)/OneDriver Client Installation/OneDriver Client Installation.md",
     "ADMIN - Package Management/App Image Installations/APT Package Manager Explicitly Installed (Manual)/Aggregated Listing Of Currently Installed Packages.md",
+    "ADMIN - Package Management/App Image Installations/PPA APT Installations (Personal Repositories)/OneDriver Client Installation/OneDriver Client Installation.md",
     "ADMIN - Package Management/App Image Installations/PPA APT Installations (Personal Repositories)/OneDriver Client Installation",
     "ADMIN - Package Management/App Image Installations/PPA APT Installations (Personal Repositories)/Floorp Browser Installation.md",
     "ADMIN - Package Management/Curl Installations/Aggregated Curl Package Installations List.md",
